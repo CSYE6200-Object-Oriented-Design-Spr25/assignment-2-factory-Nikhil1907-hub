@@ -1,0 +1,10 @@
+103,Wireless Bluetooth Earbuds,79.99
+217,4K Smart TV 55-inch,599.00
+325,Laptop 15.6" i7 16GB RAM,999.99
+431,Digital Camera 24MP,349.50
+502,Smartwatch Fitness Tracker,129.95
+618,Portable Power Bank 20000mAh,45.99
+724,Gaming Console Latest Gen,499.99
+839,Noise-Canceling Headphones,199.00
+941,Robot Vacuum Cleaner,279.95
+1056,Tablet 10" 64GB,299.00

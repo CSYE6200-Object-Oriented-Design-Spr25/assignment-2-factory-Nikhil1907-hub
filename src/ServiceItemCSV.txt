@@ -1,0 +1,10 @@
+205,House Cleaning (2 hours),89.99
+318,Car Wash and Detailing,59.95
+427,Lawn Mowing and Edging,45.00
+536,Personal Training Session,75.00
+649,Plumbing Repair (1 hour),120.00
+752,Hair Cut and Style,55.00
+861,Computer Virus Removal,99.99
+974,Home Painting (per room),200.00
+1083,Massage Therapy (1 hour),85.00
+1192,Tax Preparation Service,150.00

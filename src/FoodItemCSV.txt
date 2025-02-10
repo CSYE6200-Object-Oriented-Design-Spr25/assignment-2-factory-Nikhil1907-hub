@@ -1,0 +1,10 @@
+1,Grilled Chicken Breast,12.99
+2,Vegetable Stir Fry,10.50
+3,Beef Lasagna,14.75
+4,Caesar Salad,8.99
+5,Margherita Pizza,11.25
+6,Sushi Roll Combo,16.50
+7,Mushroom Risotto,13.75
+8,Fish and Chips,15.25
+9,Veggie Burger,9.99
+10,Chocolate Brownie Sundae,7.50
